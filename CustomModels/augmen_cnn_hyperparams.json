@@ -1,0 +1,5 @@
+{
+    "learning_rate": 0.0005,
+    "dropout_rate": 0.7,
+    "rotation_factor": 0.1
+}
